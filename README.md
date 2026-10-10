@@ -2,4 +2,5 @@ gollum
 -------
 
 This fork is unsupported - check out **https://github.com/gollum/gollum**!
-Created by Jason Heise  https://www.behance.net
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
